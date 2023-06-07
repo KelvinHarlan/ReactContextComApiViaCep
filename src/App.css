@@ -1,0 +1,27 @@
+*{
+    list-style: none;
+}
+
+.green{
+    color: green;
+    font-size: 1.2em;
+}
+
+.container{
+    display: flex;
+}
+
+.container .valuesApi{
+    margin-left: 10px;
+}
+
+.box{
+    display: flex;
+    background-color: rgb(36, 36, 36);
+    align-items: center;
+    border-radius: 5px;
+    margin: 10px;
+}
+.box label{
+    margin: 0 10px;
+}
